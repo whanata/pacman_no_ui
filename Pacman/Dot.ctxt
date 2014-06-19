@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=initialX\ initialY
+comment0.target=Dot(int,\ int)
+comment1.params=
+comment1.target=void\ disappear()
+comment2.params=player
+comment2.target=void\ check(Player)
+comment3.params=
+comment3.target=boolean\ getExists()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

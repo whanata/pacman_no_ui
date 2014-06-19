@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=initialX\ initialY
+comment0.target=Enemy(int,\ int)
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=
+comment3.target=void\ movement()
+comment4.params=player\ enemy
+comment4.target=int\ distance(int,\ int)
+comment5.params=player
+comment5.target=void\ decision(Player)
+comment6.params=playerX\ playerY
+comment6.target=boolean\ check(int,\ int)
+comment7.params=a\ b
+comment7.target=boolean\ absDecision(int,\ int)
+comment8.params=xDistance\ yDistance
+comment8.target=void\ decisionMaking(int,\ int)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
